@@ -1,0 +1,5 @@
+C:\Users\Shubham\source\repos\LineComparisonOops\LineComparisonOops\obj\Debug\netcoreapp3.1\LineComparisonOops.csproj.AssemblyReference.cache
+C:\Users\Shubham\source\repos\LineComparisonOops\LineComparisonOops\obj\Debug\netcoreapp3.1\LineComparisonOops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\source\repos\LineComparisonOops\LineComparisonOops\obj\Debug\netcoreapp3.1\LineComparisonOops.AssemblyInfoInputs.cache
+C:\Users\Shubham\source\repos\LineComparisonOops\LineComparisonOops\obj\Debug\netcoreapp3.1\LineComparisonOops.AssemblyInfo.cs
+C:\Users\Shubham\source\repos\LineComparisonOops\LineComparisonOops\obj\Debug\netcoreapp3.1\LineComparisonOops.csproj.CoreCompileInputs.cache
